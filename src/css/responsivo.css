@@ -1,0 +1,16 @@
+@media(max-width: 620px){
+    .personagens-slider{
+        padding: 0 15px;
+        gap: 10px;
+    }
+
+    .btn-seta{
+        padding: 20px;
+        width: 20px;
+        height: 20px;
+    }
+
+    .lista-personagem{
+        height: 480px;
+    }
+}
